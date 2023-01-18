@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.container {
+	max-width: 1200px;
+	margin: auto;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding: 50px 0;
+}
+
+.main {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: aqua;
+	background-image: url(https://ychef.files.bbci.co.uk/976x549/p0dwxvjt.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
